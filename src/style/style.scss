@@ -1,0 +1,15 @@
+// Setup
+@import 'setup/variables';
+@import 'setup/typography';
+
+// Basics
+@import 'basic/base';
+
+// Components
+@import 'components/pages/home';
+
+// Layout
+@import 'components/layout/navbar';
+
+// Modal
+@import 'components/modal/aboutmodal';
