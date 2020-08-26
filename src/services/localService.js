@@ -1,5 +1,5 @@
 import storageService from './storageService';
-import db from '../data/db';
+import db from './localDB';
 
 const KEY = 'customers';
 var gCustomers = null;
