@@ -27,14 +27,3 @@ a {
 *:focus {
   outline: none;
 }
-
-.switch-wrapper {
-  position: relative;
-  max-width: 1500px;
-  margin: 2rem auto;
-  padding: 0 2rem;
-}
-
-.switch-wrapper > div {
-  position: absolute;
-}
